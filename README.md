@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! 🎱
 
-<!--
-**gigiorso/gigiorso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovana Isabela Lintzmaia Orso
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma alura
+- Estou me desenvolvendo nas linguegns JavaScript,HTML e CSS
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  giovana.orso@escola.pr.gov.br
+
+
+  ![](https://media.tenor.com/FhX-tful5GgAAAAC/stich.gif )
